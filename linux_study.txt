@@ -1,0 +1,9 @@
+now im studying lunux
+
+:q -> quit vi (finish vi)
+:q! -> quit vi (don't save + finish vi)
+:w[file name] -> just save file.
+:wq or :wq! -> save file and finish vi
+
+
+
